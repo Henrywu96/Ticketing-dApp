@@ -31,7 +31,7 @@ npx hardhat run scripts/deploy.js
 5. Install Metamask
 
 
-## Use Case: Ticketing Dapp (Work in Progress) (Team Member: Min-Tzu Wu 101453248, Harshdeep Bedi 101442299)
+## Use Case: Ticketing Dapp (Team Member: Min-Tzu Wu 101453248, Harshdeep Bedi 101442299)
 
 - Problem statement
   - Entertainment companies do not have access to the information about their clients because a ticket is either a pdf file or a piece of paper with a barcode. Since scammers are a major concern in the secondary market because they take advantage of the lack of pricing transparency and the restricted number of tickets. It is frequently hard for purchasers on the secondary market to confirm that the ticket they are purchasing is real and has not been distributed in numerous copies to other consumers. Also, venue owners could not be aware of the actual venue’s patrons, either from the primary market or the secondary market.
